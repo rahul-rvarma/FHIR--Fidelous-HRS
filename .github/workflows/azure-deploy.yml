@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: fhir-java-java-h8ddc6dafwgmbbhg
+  AZURE_WEBAPP_NAME: fhir-java-java
   JAVA_VERSION: '11'
 
 jobs:
